@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc659cf2-f067-4d56-9d32-cc95f117f9ce" name="默认更改列表" comment="" />
+    <list default="true" id="dc659cf2-f067-4d56-9d32-cc95f117f9ce" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -168,11 +173,12 @@
       <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="639" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="657" />
     <option name="width" value="1285" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -274,16 +280,15 @@
       <workItem from="1558055697805" duration="3133000" />
       <workItem from="1558315322591" duration="3752000" />
       <workItem from="1558400943602" duration="13706000" />
-      <workItem from="1558488252015" duration="880000" />
+      <workItem from="1558488252015" duration="1061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47574000" />
+    <option name="totallyTimeSpent" value="47755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="0" width="1285" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="575" y="10" width="1285" height="1047" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21469387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
